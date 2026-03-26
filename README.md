@@ -13,11 +13,11 @@ A full-stack AI-powered research system built with FastAPI and React. Ask any re
 
 ## 🖼️ Demo Preview
 
-###Homepage
+**Homepage**
 ![Landing Page](https://raw.githubusercontent.com/ritwik-basak/Minerva/main/assets/1.png)
-###Research Pipeline
+**Research Pipeline**
 ![Screenshot 2](https://raw.githubusercontent.com/ritwik-basak/Minerva/main/assets/2.png)
-#Results
+**Results**
 ![Screenshot 3](https://raw.githubusercontent.com/ritwik-basak/Minerva/main/assets/3.png)
 
 
