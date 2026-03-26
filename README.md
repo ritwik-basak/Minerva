@@ -11,6 +11,15 @@ A full-stack AI-powered research system built with FastAPI and React. Ask any re
 
 ---
 
+## 🖼️ Demo Preview
+
+![Landing Page](https://raw.githubusercontent.com/ritwik-basak/Minerva/main/assets/1.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/ritwik-basak/Minerva/main/assets/2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/ritwik-basak/Minerva/main/assets/3.png)
+
+
 ## ✨ Key Highlights
 
 - Built a full-stack multi-agent research system using FastAPI, LangGraph, and React
