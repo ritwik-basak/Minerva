@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-google-genai
+tavily-python
+sentence-transformers
+langsmith
+python-dotenv
+arxiv
+wikipedia
+google-api-python-client
+pydantic
