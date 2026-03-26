@@ -1,6 +1,6 @@
 # Minerva — Agentic Research Intelligence
 
-A full-stack AI-powered research system built with FastAPI and React. Ask any research question, and Minerva deploys a pipeline of specialized AI agents to search the web, academic databases, news sources, and YouTube — then synthesizes everything into a structured research report with source citations, streamed live to your browser.
+A full-stack AI-powered research system built with FastAPI and React. Ask any research question, and Minerva deploys a pipeline of specialized AI agents to search the web, academic databases and news sources — then synthesizes everything into a structured research report with source citations, streamed live to your browser.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-green?style=flat&logo=fastapi)
